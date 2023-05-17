@@ -1,4 +1,4 @@
 # Ingrid
-angre;estudando **pensamento computacional**
+:face_in_clouds:estudando **pensamento computacional**
 
-purple_heart;meu email é [email](ingrid.rodrigues.almeida@escola.pr.gov.br)
+:cowboy_hat_face:meu email é [email](ingrid.rodrigues.almeida@escola.pr.gov.br)
